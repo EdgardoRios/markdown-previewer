@@ -75,7 +75,7 @@ export default class App extends React.Component {
                   }}>
                 </textarea>
                 <div>
-                  <button id='button' onClick={(element) => {
+                  <button id='button' onClick={() => {
                     this.setState({
                       markdown: resetValue
                     });
