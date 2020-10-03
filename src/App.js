@@ -8,7 +8,7 @@ export default class App extends React.Component {
     console.log('constructor runs');
     super(props);
     this.state = {
-      markdown: '# Heading H1  \n## Heading H2  \n---  \n[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  \n**Bold**  \n*Italic*  \n~~Strikethrough~~  \n`Code`  \n- Unordered List  \n1. Ordered List  \n2. Ordered List  \n- [ ] Task List  \n- [x] Task List  \n\n![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F39%2FFreeCodeCamp_logo.png%2F250px-FreeCodeCamp_logo.png&f=1&nofb=1)'
+      markdown: '# Heading H1  \n## Heading H2  \n---  \n[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  \n**Bold**  \n*Italic*  \n~~Strikethrough~~  \n`Code`  \n- Unordered List  \n1. Ordered List  \n2. Ordered List  \n- [ ] Task List  \n- [x] Task List  \n\n![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeCodeCamp_logo.png/250px-FreeCodeCamp_logo.png)'
     };
   }
 
