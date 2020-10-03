@@ -26,7 +26,7 @@ export default class App extends React.Component {
 
     var inputStyle = {
       width: '400px',
-      height: '70vh',
+      height: '73vh',
       marginLeft: 'auto',
       marginRight: 'auto',
       padding: '10px',
@@ -34,7 +34,7 @@ export default class App extends React.Component {
 
     var outputStyle = {
       width: '400px',
-      height: '70vh',
+      height: '73vh',
       marginLeft: 'auto',
       marginRight: 'auto',
       padding: '10px',
